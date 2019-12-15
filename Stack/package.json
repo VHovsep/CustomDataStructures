@@ -1,0 +1,11 @@
+{
+  "name": "stack-node",
+  "version": "1.0.1",
+  "description": "implemented Stack structure in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hovsep Vardanyan",
+  "license": "ISC"
+}
